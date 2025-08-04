@@ -8,7 +8,7 @@ This repository contains an alphabetically sorted list of unique code words that
 
 ## Contents
 
-- `codes.txt` - Alphabetically sorted list of 580 unique code words transmitted by UVB-76
+- `codes.txt` - Alphabetically sorted list of 649 unique code words transmitted by UVB-76
 
 ## Background
 
